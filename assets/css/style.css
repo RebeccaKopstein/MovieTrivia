@@ -1,0 +1,39 @@
+body {
+    background: url("../images/pexels-photo-1117132\ \(3\).jpeg");
+       
+}
+
+
+h1{
+    text-align: center;
+    background: rgb(148, 17, 17);
+    color: rgb(180, 156, 21);
+    margin: 500px;
+}
+
+h2 {
+    text-align: center;
+    background: rgb(180, 156, 21);
+    color: rgb(148, 17, 17);
+    margin: 150px;
+}
+
+#target {
+    background-color: rgb(243, 243, 224, 0.3);
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 7px;
+    
+}
+#result {
+    background: black;
+    color: white;
+    margin:200px;
+   
+}
+
+ #timer {
+     font-size: 24px;
+     background: rgb(6, 46, 6);
+     color:burlywood
+ } text-align: center;
