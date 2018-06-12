@@ -1,7 +1,7 @@
 $(document).ready(function () {
     console.log("ready!");
 
-var count = 60;
+var count = 45;
 
 var counter=setInterval(timer, 1000); //1000 will  run it every 1 second
 
@@ -67,6 +67,7 @@ function timer()
     displayQuestion()
     function startGame() {
         console.log("Game Over")
+        alert("Game Over!!! Click submit to see how many you got correct!")
         
     }
     function displayQuestion() {
